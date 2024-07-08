@@ -1,0 +1,1 @@
+Here I will publish some of my projects to represent my skills. There will be two types : AI and Non AI bots. It means that some of bots will be using AI and some won't. The name of projects will explain you that is it AI or non AI. I recomend you to read README.md if you consider to check the folder of project.
